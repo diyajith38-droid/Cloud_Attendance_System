@@ -1,3 +1,6 @@
+##Live Demo
+https://cloud-attendance-system-1-xth8.onrender.com/accounts/login/
+
 # CloudAttend — Cloud Attendance System
 
 > A cloud-based student attendance management system built with **Django 5** (Python 3.12),
